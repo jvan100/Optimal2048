@@ -5,7 +5,7 @@ This project is an efficient C# implementation of the Expectimax search algorith
 The AI consistently reaches the **8192 tile**, and often reaches the **16384 tile**.
 
 ## Highest Score
-![highest-score](./highest-score.png)
+<img src="highest-score.png" width="500" alt="Highest score achieved by AI">
 
 ## Features
 
