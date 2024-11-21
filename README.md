@@ -4,6 +4,9 @@ This project is an efficient C# implementation of the Expectimax search algorith
 
 The AI consistently reaches the **8192 tile**, and often reaches the **16384 tile**.
 
+## Highest Score
+![highest-score](./highest-score.png)
+
 ## Features
 
 - **64 bit integer** board representation, where each tile is represented as a power of 2 using **4 bits**
