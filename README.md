@@ -21,4 +21,4 @@ The AI consistently reaches the **8192 tile**, and often reaches the **16384 til
 
 ## Demo (slowed)
 
-![16384](./16384.gif)
+<img src="16384.gif" width="500" alt="AI achieving the 16384 tile demo">
